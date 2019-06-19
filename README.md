@@ -13,3 +13,6 @@ Pandas was used to merge dataset into a single file.</br>
 <li>201405_201905-citibike-tripdata.csv</li>
 </ul></br>
 The merged CSV along with both source CSVs are too large to store in GitHub and thus are omitted (.gitignore).</br>
+
+The Tableau story series is located on the Tableau public site:</br>
+https://public.tableau.com/profile/christopher.reutz#!/vizhome/Citi_Bike_Analytics_15607510047590/Story1?publish=yes
